@@ -1,7 +1,7 @@
 # SimpleSandbox
 A simple sandbox for Java based on SecurityManager.
 
-Currently in proposal stage. Feedback is welcome, and can be provided through the forums.
+Currently in proposal stage. Feedback is welcome, and can be provided through the [Discussion forums](https://github.com/jep411/SimpleSandbox/discussions).
 
 # Introduction
 
