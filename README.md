@@ -19,7 +19,7 @@ This project is a proposal to make SecurityManager easier to use, by:
 around the SecurityManager, while providing an opinionated abstraction over the raw API.
 
 2. Creating a public database of permissions required by popular libraries, in a similar
-vein as [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped), a public database for type declartion
+vein as [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped), a public database for type declaration
 files used by TypeScript.
 
 3. Creating plugins for popular build tools, like gradle, maven, sbt, etc. These plugins will automatically figure out
